@@ -44,7 +44,6 @@ Aspiring data scientist with a strong foundation in business intelligence and an
 - [LinkedIn](https://www.linkedin.com/in/zi-xuan-choong-3a7a48223/)
 ---
 
-### 🚀 Let's Collaborate!  
-I'm open to collaborations on data science projects, web development, or anything tech-related. Feel free to explore my repositories and reach out. Let's build something amazing together!  
+  
 
 
