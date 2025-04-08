@@ -41,7 +41,7 @@ Aspiring data scientist with a strong foundation in business intelligence and an
 ---
 
 ## 🌐 Connect with Me
-- **LinkedIn:** [Choong Zi Xuan](https://www.linkedin.com/uas/login-submit)  
+- [LinkedIn](https://www.linkedin.com/in/zi-xuan-choong-3a7a48223/)
 ---
 
 ### 🚀 Let's Collaborate!  
