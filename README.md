@@ -1,4 +1,4 @@
-![Profile Picture](https://your-image-url.com)
+
 # 👋 Hello, I'm Choong Zi Xuan!
 
 Aspiring data scientist with a strong foundation in business intelligence and analytics. Passionate about turning data into actionable insights and creating impactful digital experiences.
